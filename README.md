@@ -7,7 +7,6 @@
 Skills: JS / C++ / C / HTML / CSS/ C# / Python
 
 - 🌱 I’m currently learning ASM 
-- 🤔 I’m looking for help with Malware Experts 
 - 📫 How to reach me: yogasvchann@gmail.com 
 
 
