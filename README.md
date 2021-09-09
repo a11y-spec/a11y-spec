@@ -4,14 +4,12 @@
 *I love to create Malwares(All Kind)
 
 
-Skills: JS / C++ / C / HTML / CSS/C#/Python
+Skills: JS / C++ / C / HTML / CSS/ C# / Python
 
-- 🔭 I’m currently working on My life. 
-- 🌱 I’m currently learning Javascript 
+- 🌱 I’m currently learning ASM 
 - 🤔 I’m looking for help with Malware Experts 
-- 💬 Ask me about Any malware you can do Coding Request too! 
 - 📫 How to reach me: yogasvchann@gmail.com 
-- ⚡ Fun fact: I am human XD. 
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/a11y-spec)  
