@@ -1,7 +1,7 @@
-### Hi there 👋, My name 'is a11y-spec(not real)
+### Hi there 👋, My name is a11y-spec(not real)
 #### I am a human.
 *I live on EARTH
-*I love to create Malwares(All Kind)
+*I love to create Malwares,Applications,Exploits
 
 
 Skills: JS / C++ / C / HTML / CSS/ C# / Python
