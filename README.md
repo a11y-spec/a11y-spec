@@ -2,8 +2,6 @@
 #### I am a human.
 *I live on EARTH
 
-Skills: JS / C++ / C / HTML / CSS/ C# / Python
-
 - 🌱 I’m currently learning ASM 
 - 📫 How to reach me: yogasvchann@gmail.com 
 
