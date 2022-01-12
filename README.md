@@ -1,26 +1,63 @@
-### Hi there 👋, My name is a11y-spec(not real)
-#### I am a human.
-*I live on EARTH
 
-- 🌱 I’m currently learning ASM 
-- 📫 How to reach me: yogasvchann@gmail.com 
+<html>
+<head>
+<title>tmp.0ut</title>
+<meta charset="utf-8">
+<style>
+    body {
+      color: #FEFEFE;
+      background-color: #0c0d10;
+      margin: 0 auto;
+      padding: 1em 0 1em 0;
+    }
+@font-face { font-family: "gohu"; src: url("gohu.woff") format('woff'); }
+       pre { font-family: "gohu", "Lucida Console", monospace, Monaco; font-size: 14px; line-height: 1.0; }
+         a { color: #93ffd7; text-decoration: none; }
+</style>
+</head>
+<body>
+<center><div style="display: inline-block; text-align: left;"><pre>
+                                                            ┌───────────────────────┐
+                                                            ▄▄▄▄▄ ▄▄▄▄▄ ▄▄▄▄▄       │
+                                                            │ █   █ █ █ █   █       │
+                                                            │ █   █ █ █ █▀▀▀▀       │
+                                                            │ █   █   █ █     ▄     │
+                                                            │                 ▄▄▄▄▄ │
+                                                            │                 █   █ │
+                                                            │                 █   █ │
+                                                            │                 █▄▄▄█ │
+                                                            │                 ▄   ▄ │
+                                                            │                 █   █ │
+                                                            │                 █   █ │
+                                                            │                 █▄▄▄█ │
+                                                            │                 ▄▄▄▄▄ │
+┌───────────────────────────────────────────────────────────│                   █   │
+│ tmp.0ut Volume 1 - April 2021                             │                   █   │
+│                                     CONTENTS              └───────────────────█ ──┘
+│                                                                                  │ 
+│ 1.0  <a href="0.html">Intro</a> ....................................................... tmp.0ut Staff │
+│ 1.1  <a href="1.html">Dead Bytes</a> .................................................... xcellerator │
+│ 1.2  <a href="2.html">Implementing the PT_NOTE Infection Method In x64 Assembly</a> ........... sblip │
+│ 1.3  <a href="3.html">PT_NOTE To PT_LOAD ELF Injector In Rust</a> ............................. d3npa │
+│ 1.4  <a href="4.html">PT_NOTE Disinfector In Python</a> .................................... manizzle │
+│ 1.5  <a href="5.html">Fuzzing Radare2 For 0days In About 30 Lines Of Code</a> ..... Architect, s01den │
+│ 1.6  <a href="6.html">The Polymorphic False-Disassembly Technique</a> ........................ s01den │
+│ 1.7  <a href="7.html">Lin64.Eng3ls: Some Anti-RE Techniques In A Linux Virus</a> ...... s01den, sblip │
+│ 1.8  <a href="Linux.Midrashim.asm">Linux.Midrashim.asm</a> ................................................... TMZ │
+│ 1.9  <a href="9.html">In-Memory LKM Loading</a> ........................................... netspooky │
+│ 1.10 <a href="10/">Linux SHELF Loading</a> .................................... ulexec, Anonymous_ │
+│ 1.11 <a href="11.html">Return To Original Entry Point Despite PIE</a> ......................... s01den │
+│ 1.12 <a href="12.html">Writing Viruses In MIPS Assembly For Fun (And No Profit)</a> ........... s01den │
+│ 1.13 <a href="13.html">Interview: herm1t</a> ........................................... tmp.0ut Staff │
+│ 1.14 <a href="14.html">GONE IN 360 SECONDS - Linux/Retaliation</a> ............................ qkumba │
+│ 1.15 <a href="Linux.Nasty.asm">Linux.Nasty.asm</a> ....................................................... TMZ │
+│ 1.16 <a href="Linux.Precinct3.asm">Linux.Precinct3.asm</a> ............................................. netspooky │
+│ 1.17 <a href="17/">Underground Worlds</a> ................................................. s01den │ 
+│                                                                                  │ 
+└──────────────────────────────────────────────────────────────────────────────────┘ 
 
+  >> For the txt version of this zine, visit <a href="https://tmpout.sh/1/txt/index.txt">https://tmpout.sh/1/txt/index.txt</a>
+     (all .html files are renamed to .txt!) or download the zip of this zine 
+     here: <a href="https://tmpout.sh/1/tmp.0ut.1.txt.zip">https://tmpout.sh/1/tmp.0ut.1.txt.zip</a>
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/a11y-spec)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=a11y-spec)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a11y-spec)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=a11y-spec&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=a11y-spec)  
-
-![GitHub metrics](https://metrics.lecoq.io/a11y-spec)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=a11y-spec)  
-
-![Profile views](https://gpvc.arturio.dev/a11y-spec)  
+</pre></div></center></body></html>
