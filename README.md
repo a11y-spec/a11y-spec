@@ -13,7 +13,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=a11y-spec)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a11y-spec)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a11y-spec)]
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=a11y-spec&show_icons=true)  
 
